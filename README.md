@@ -44,7 +44,7 @@ The code was generated using Tableau, and it requires Tableau - version 2020.4.1
 
 
 ## Project Status
-Project is: _finished_ and _opened_ for improvement.
+Project is: _finished_ and _opened_ for improvement
 
 
 ## Room for Improvement
@@ -65,4 +65,4 @@ Created by Anh Nguyen - [aqnguy30](https://github.com/aqnguy30) - quocanh191997@
 
 
 ## License
-This project is open source and available under the [GNU General Public License v3.0](./LICENSE). 
+This project is open source and available under the [GNU General Public License v3.0](./LICENSE) 
